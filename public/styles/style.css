@@ -1,0 +1,34 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    margin-left: 600px;
+}
+
+#saisie {
+    border: 1px solid #808080;
+    width: 200px;
+    margin-left: 600px;
+    background-color: #e6dfdf;
+}
+
+#resultat {
+    display: none;
+    width: 200px;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #808080;
+    margin-left: 600px;
+}
+#resultat p {
+    margin: 0;
+    padding: 0;
+    margin-left: 1px;
+}
+
+#resultat p:hover{
+    color: #0026ff;
+    background-color: #bcb4b4;
+}
